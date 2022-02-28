@@ -33,9 +33,9 @@ export default {
       text-sm
       sm:text-md
       bg-secondary-light
-      dark:bg-ternary-dark
+      dark:bg-gray-50
       text-primary-dark
-      dark:text-ternary-light
+      dark:text-primary-dark
     "
   >
     <option value class="text-sm sm:text-md">Catégories</option>

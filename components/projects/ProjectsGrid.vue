@@ -119,7 +119,7 @@ export default {
               text-sm
               sm:text-md
               bg-secondary-light
-              dark:bg-ternary-dark
+              dark:bg-gray-50
               text-primary-dark
               dark:text-ternary-light
             "
@@ -148,7 +148,7 @@ export default {
           mb-10
           sm:mb-0
           bg-secondary-light
-          dark:bg-ternary-dark
+          dark:bg-gray-50
         "
         aria-label="Single Project"
       >
@@ -165,7 +165,7 @@ export default {
               class="
                 font-general-semibold
                 text-xl text-ternary-dark
-                dark:text-ternary-light
+                dark:text-primary-dark
                 font-semibold
                 mb-2
               "
@@ -176,7 +176,7 @@ export default {
               class="
                 font-general-medium
                 text-lg text-ternary-dark
-                dark:text-ternary-light
+                dark:text-primary-dark
               "
               >{{ project.category }}</span
             >

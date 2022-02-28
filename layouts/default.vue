@@ -1,6 +1,6 @@
 <template>
   <div
-    class="bg-secondary-light relative dark:bg-black min-h-screen flex flex-col " style="z-index:0" 
+    class="bg-secondary-light relative dark:bg-gray-900 min-h-screen flex flex-col " style="z-index:0" 
   >
     <!-- App header -->
     <AppHeader />

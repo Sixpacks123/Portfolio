@@ -59,19 +59,17 @@ export default {
         <!-- Header logos -->
         <div>
           <NuxtLink to="/">
-            <img
+            <h1
               v-if="this.$colorMode.value == 'dark'"
-              src="~/static/logo-light.svg"
-              class="w-36"
+              class="text-4xl text-white incosolata"
               alt="Light Logo"
-            />
+            >AUBIN</h1>
 
-            <img
+            <H1
               v-else
-              src="~/static/logo-dark.svg"
               alt="Color Logo"
-              class="w-36"
-            />
+              class="text-4xl text-black incosolata"
+            >AUBIN</h1>
           </NuxtLink>
         </div>
 
