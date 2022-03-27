@@ -6,23 +6,22 @@ export const state = () => ({
   projects: [
     {
       id: "260d1271-f1f2-4bc9-a5eb-05a89c8cccdb",
-      title: "Google Health Platform",
+      title: "Loisira",
       category: "Web Application",
       img: "images/web-project-2.jpg",
-      publishDate: "Nov 04, 2021",
+      publishDate: "Dec 04, 2021",
       tag: "UI / Frontend",
-      clientTitle: "About Client",
-      objectivesTitle: "Objective",
+      clientTitle: "Le Client",
+      objectivesTitle: "Objectif",
       objectivesDetails:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.",
-      techTitle: "Tools & Technologies",
+        "Projet réalisé dans le cadre d'un test de recrutement pour un stage lors de ma deuxième année de BTS SIO(Service Informatique aux Organisation)",
+      techTitle: "Technologie",
       detailsTitle: "Challenge",
-      socialTitle: "Share This",
       projectImages: [
         {
           id: uuidv4(),
-          title: "Uber Project Management UI",
-          img: "../images/ui-project-1.jpg",
+          title: "Main",
+          img: "../images/Loisira.png",
         },
         {
           id: uuidv4(),
@@ -38,54 +37,33 @@ export const state = () => ({
       companyInfos: [
         {
           id: uuidv4(),
-          title: "Name",
-          details: "Company Ltd",
+          title: "Loisira",
+          details: "Entreprise fictive",
         },
         {
           id: uuidv4(),
           title: "Services",
           details: "UI Design & Frontend Development",
         },
-        {
+        /* {
           id: uuidv4(),
           title: "Website",
-          details: "https://company.com",
+          details: "http://odexia.s3-website.eu-west-3.amazonaws.com/",
         },
         {
           id: uuidv4(),
           title: "Phone",
           details: "555 8888 888",
-        },
+        },*/
       ],
       technologies: [
         "HTML",
         "CSS",
         "JavaScript",
         "Nuxt.js",
-        "TailwindCSS",
-        "AdobeXD",
-      ],
-      projectDetails: [
-        {
-          id: uuidv4(),
-          details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
-        },
-        {
-          id: uuidv4(),
-          details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
-        },
-        {
-          id: uuidv4(),
-          details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta?",
-        },
-        {
-          id: uuidv4(),
-          details:
-            "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nihil vel illum asperiores dignissimos cumque quibusdam et fugiat voluptatem nobis suscipit explicabo, eaque consequatur nesciunt, fugit eligendi corporis laudantium adipisci soluta? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Incidunt totam dolorum, ducimus obcaecati, voluptas facilis molestias nobis ut quam natus similique inventore excepturi optio ipsa deleniti fugit illo. Unde, amet! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum illo necessitatibus perspiciatis! Aperiam perferendis labore temporibus, eos culpa corporis recusandae quas, fuga voluptatibus nesciunt odit libero tenetur neque consequatur ea.",
-        },
+        "Node.js",
+        "vuex",
+        "expresse.js"
       ],
       socialSharings: [
         {
@@ -670,34 +648,16 @@ export const state = () => ({
       socialSharings: [
         {
           id: uuidv4(),
-          name: "Twitter",
-          icon: "twitter",
-          url: "https://twitter.com/realstoman",
+          name: "GitHub",
+          icon: "github",
+          url: "https://github.com/Sixpacks123",
         },
         {
           id: uuidv4(),
-          name: "Instagram",
-          icon: "instagram",
-          url: "https://instagram.com/realstoman",
-        },
-        {
-          id: uuidv4(),
-          name: "Facebook",
-          icon: "facebook",
-          url: "https://facebook.com/",
-        },
-        {
-          id: uuidv4(),
-          name: "LinkedIn",
+          name: "Linkedin",
           icon: "linkedin",
-          url: "https://linkedin.com/",
-        },
-        {
-          id: uuidv4(),
-          name: "Youtube",
-          icon: "youtube",
-          url: "https://www.youtube.com/c/StomanStudio",
-        },
+          url: "https://www.linkedin.com/in/aubin-heurtault-a1a966202",
+        }
       ],
     },
   ],
@@ -760,25 +720,13 @@ export const state = () => ({
       id: uuidv4(),
       name: "GitHub",
       icon: "github",
-      url: "https://github.com/realstoman",
+      url: "https://github.com/Sixpacks123",
     },
     {
       id: uuidv4(),
-      name: "Twitter",
-      icon: "twitter",
-      url: "https://twitter.com/realstoman",
-    },
-    {
-      id: uuidv4(),
-      name: "Medium",
-      icon: "book",
-      url: "https://stoman.medium.com",
-    },
-    {
-      id: uuidv4(),
-      name: "Instagram",
-      icon: "instagram",
-      url: "https://instagram.com/realstoman",
+      name: "Linkedin",
+      icon: "linkedin",
+      url: "https://www.linkedin.com/in/aubin-heurtault-a1a966202",
     },
   ],
   categories: [

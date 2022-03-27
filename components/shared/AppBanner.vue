@@ -39,7 +39,7 @@ export default {
 
   <section
     class="
-     text-left pt-60 pb-60 w-8/1 
+     text-left pt-60 pb-60 w-8/1
     "
   >
 
@@ -79,7 +79,7 @@ export default {
       </p>
       <div class="flex justify-center sm:block">
         <a
-          href="/Stoman-Resume.pdf"
+          href="/CV_heurtault_aubin.pdf"
           download=""
           class="
             flex
@@ -116,7 +116,7 @@ export default {
     </div>
 
     <!-- Banner right illustration -->
-  
+
   </section>
   </div>
 </template>
