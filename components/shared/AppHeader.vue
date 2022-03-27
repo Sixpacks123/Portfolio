@@ -179,25 +179,7 @@ export default {
         class="hidden sm:flex justify-between items-center flex-col md:flex-row"
       >
         <!-- Hire me button -->
-        <div class="font-general-medium hidden md:block">
-          <button
-            class="
-            incosolata
-              text-md
-              bg-yellow-600
-              hover:bg-yellow-500
-              text-white
-              shadow-sm
-              rounded-md
-              px-5
-              py-2.5
-            "
-            @click="showModal()"
-            aria-label="Hire Me Button"
-          >
-            Hire Me
-          </button>
-        </div>
+        <
 
         <!-- Theme switcher large screen -->
         <button
@@ -257,12 +239,6 @@ export default {
       </div>
     </div>
 
-    <!-- Hire me modal -->
-    <HireMeModal
-      :showModal="showModal"
-      :modal="modal"
-      :categories="categories"
-      aria-modal="Hire Me Modal"
-    />
+
   </nav>
 </template>

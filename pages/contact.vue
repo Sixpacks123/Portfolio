@@ -7,20 +7,10 @@ export default {
     return {
       contacts: [
         {
-          id: 1,
-          name: "Your Address, Your City, Your Country",
-          icon: "map-pin",
-        },
-        {
           id: 2,
-          name: "email@domain.com",
+          name: "aub.heurtault@gmail.com",
           icon: "mail",
-        },
-        {
-          id: 3,
-          name: "555 8888 888",
-          icon: "phone",
-        },
+        }
       ],
     };
   },

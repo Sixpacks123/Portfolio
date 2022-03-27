@@ -35,7 +35,7 @@ export default {
           mb-8
         "
       >
-        Contact Form
+        Formulaire de contact
       </p>
       <form
         @submit="
@@ -49,7 +49,7 @@ export default {
           <label
             class="block text-lg text-primary-dark dark:text-primary-light mb-2"
             for="name"
-            >Full Name</label
+            >Nom</label
           >
           <input
             class="
@@ -71,7 +71,7 @@ export default {
             name="name"
             type="text"
             required=""
-            placeholder="Your Name"
+            placeholder="Votre Nom"
             aria-label="Name"
           />
         </div>
@@ -101,7 +101,7 @@ export default {
             name="email"
             type="text"
             required=""
-            placeholder="Your Email"
+            placeholder="Votre Email"
             aria-label="Email"
           />
         </div>
@@ -109,7 +109,7 @@ export default {
           <label
             class="block text-lg text-primary-dark dark:text-primary-light mb-2"
             for="subject"
-            >Subject</label
+            >Sujet</label
           >
           <input
             class="
@@ -131,7 +131,7 @@ export default {
             name="subject"
             type="text"
             required=""
-            placeholder="Subject"
+            placeholder="Sujet"
             aria-label="Subject"
           />
         </div>
@@ -168,7 +168,7 @@ export default {
 
         <div class="mt-6">
           <Button
-            title="Send Message"
+            title="Envoyer le message"
             class="
               px-4
               py-2.5
@@ -181,7 +181,7 @@ export default {
               duration-500
             "
             type="submit"
-            aria-label="Send Message"
+            aria-label="Envoyer le message"
           />
         </div>
       </form>
