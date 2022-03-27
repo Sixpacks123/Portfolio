@@ -4,8 +4,8 @@ import { mapState } from "vuex";
 export default {
   data: () => {
     return {
-      projectName: "Nuxt.js & TailwindCSS Portfolio",
-      author: "Stoman",
+      projectName: "Portfolio",
+      author: "Aubin",
     };
   },
   computed: {
@@ -35,7 +35,7 @@ export default {
         "
         >{{ projectName }}</a
       >
-      . Developed by
+      . Developé par
       <a
         href="https://stoman.me"
         target="__blank"
