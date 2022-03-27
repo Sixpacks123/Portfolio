@@ -55,7 +55,7 @@ export default {
         dark:border-secondary-dark
       "
       aria-label="About Me"
-      >About Me</NuxtLink
+      >À propos</NuxtLink
     >
     <NuxtLink
       to="/contact"
