@@ -12,6 +12,12 @@ export default {
         "Mobile Application",
         "UI/UX Design",
         "Branding & Anim",
+        "Gérer Le patrimoine informatique",
+        "Répondre aux incident et aux demande d'assistance",
+        "Développer la présence en ligne de l'organisation",
+        "Travailler en mode projet",
+        "Mettre a disposition des utilisateurs un service informatique",
+        "Organiser son développement proffesionelle"
       ],
     },
   },
