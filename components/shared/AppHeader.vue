@@ -178,8 +178,6 @@ export default {
       <div
         class="hidden sm:flex justify-between items-center flex-col md:flex-row"
       >
-        <!-- Hire me button -->
-        <
 
         <!-- Theme switcher large screen -->
         <button

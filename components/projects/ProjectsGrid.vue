@@ -136,7 +136,7 @@ export default {
     </div>
 
     <!-- Projects grid -->
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 mt-6 sm:gap-10">
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 mt-6 sm:gap-10">
       <div
         v-for="project in filteredProjects"
         :key="project.id"
@@ -153,11 +153,11 @@ export default {
         aria-label="Single Project"
       >
         <NuxtLink :to="`/projects/${project.id}`">
-          <div>
+          <div class="h-3/4">
             <img
               :src="project.img"
               :alt="project.title"
-              class="rounded-t-xl border-none"
+              class="rounded-t-xl border-none mx-auto align-middle"
             />
           </div>
           <div class="text-center px-4 py-6">
