@@ -31,7 +31,7 @@ export default {
           text-ternary-dark
           dark:text-ternary-light
           text-lg
-        "
+        " 
       >
         {{ bio.bio }}
       </p>
