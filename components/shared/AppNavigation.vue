@@ -74,7 +74,7 @@ export default {
         border-primary-light
         dark:border-secondary-dark
       "
-      aria-label="Contact"
+      aria-label="ctf"
       >CTF</NuxtLink
     >
     <NuxtLink
