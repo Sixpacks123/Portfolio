@@ -75,7 +75,7 @@ export default {
           text-gray-400
         "
       >
-        Junior Developer
+        Junior Developer, CTF Player
       </p>
       <div class="flex justify-center sm:block">
         <a
