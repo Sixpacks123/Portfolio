@@ -35,7 +35,7 @@ export default {
         sm:py-2
       "
       aria-label="Projects"
-      >Projets</NuxtLink
+      >Portfolio</NuxtLink
     >
     <NuxtLink
       to="/about"
