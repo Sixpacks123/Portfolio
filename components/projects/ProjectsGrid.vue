@@ -145,6 +145,7 @@ export default {
           shadow-lg
           hover:shadow-xl
           cursor-pointer
+          
           mb-10
           sm:mb-0
           bg-secondary-light
