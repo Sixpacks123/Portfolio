@@ -37,7 +37,7 @@ export default {
                   </tr>
                 </thead>
                 <tbody>
-                  <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100">
+                  <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700">
                     <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-ternary-light">
                         Mooc SecNum Academy (ANSSI) 
                     </td>
@@ -48,7 +48,7 @@ export default {
                     Fini
                     </td>
                   </tr>
-                  <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100">
+                  <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700">
                     <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-ternary-light">
                         Responisve Web Design (FreeCodeCamp)
                     </td>
@@ -59,7 +59,7 @@ export default {
                     Fini
                     </td>
                   </tr>
-                  <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100">
+                  <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700">
                     <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-ternary-light">
                         Vue.js (codecademy)
                     </td>
@@ -70,7 +70,7 @@ export default {
                      Fini
                     </td>
                   </tr>
-                  <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100">
+                  <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700">
                     <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-ternary-light">
                         React.js (codecademy)
                     </td>

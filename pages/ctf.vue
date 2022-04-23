@@ -38,7 +38,8 @@ export default {
             </tr>
           </thead>
           <tbody>
-            <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100">
+            <tr class=" border-b transition duration-300 ease-in-out hover:text-secondary-dark
+        dark:hover:text-secondary-light">
               <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-ternary-light">
                   Root me 
               </td>
@@ -52,7 +53,7 @@ export default {
                 1185 points
               </td>
             </tr>
-             <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100">
+             <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700">
               <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-ternary-light">
                   Hackday 
               </td>
@@ -66,7 +67,7 @@ export default {
                 37/60
               </td>
             </tr>
-             <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100">
+             <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700">
               <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-ternary-light">
                   BreizhCTF 
               </td>
@@ -80,7 +81,7 @@ export default {
                 90/100
               </td>
             </tr>
-            <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100">
+            <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700">
               <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-ternary-light">
                   Ctf Pôle Sup 
               </td>
@@ -94,8 +95,8 @@ export default {
                 5 ème
               </td>
             </tr>
-            <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100">
-              <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+            <tr class=" border-b transition duration-300 ease-in-out hover:bg-gray-100 dark:hover:bg-gray-700">
+              <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900 dark:text-ternary-light">
                   Ctf Pôle Sup 
               </td>
               <td class="text-sm text-gray-900 dark:text-ternary-light font-light px-6 py-4 whitespace-nowrap">
