@@ -25,8 +25,8 @@ export default {
     >
       &copy; {{ copyrightDate }}.
       <a
-        href="https://github.com/realstoman/nuxtjs-tailwindcss-portfolio"
-        target="__blank"
+        href="#"
+        
         class="
           font-general-medium
           hover:underline hover:text-indigo-600
@@ -37,8 +37,8 @@ export default {
       >
       . Developé par
       <a
-        href="https://stoman.me"
-        target="__blank"
+        href="#"
+        
         class="
           font-general-medium
           text-secondary-dark

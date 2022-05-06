@@ -384,10 +384,10 @@ export const state = () => ({
       ],
       socialSharings: [
       ],
-    },// TraceGPS - C# 
+    },// TraceGPS - DAO PHP
     {
       id: "260d1271-f1f2-4bc9-a5et-06a89c8cccdu",
-      title: " TraceGPS - C# ",
+      title: " TraceGPS - DAO PHP ",
       category: "Java / API",
       img: "ProjetDls/Logo.png",
       publishDate: "Nov 04, 2021",
@@ -398,7 +398,7 @@ export const state = () => ({
         "Développement et le test de l’API Java qui sera utilisée pour l’application Android  ",
       techTitle: "Technologies",
       detailsTitle: "Description",
-      socialTitle: "",
+      competance: "",
       projectImages: [
         {
           id: uuidv4(),

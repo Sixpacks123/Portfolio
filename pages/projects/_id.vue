@@ -250,7 +250,7 @@ export default {
       </div>
 
       <!-- Project related projects -->
-      <ProjectRelatedProjects />
+      <!--<ProjectRelatedProjects />-->
     </div>
 
     <!-- Load not found components if no project found -->
